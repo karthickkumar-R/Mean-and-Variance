@@ -49,7 +49,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 DEVELOPED BY: KARTHICKKUMAR R
-
 REG NO: 212223040087
 
 
@@ -89,4 +88,7 @@ print(f"Standard Deviation = {sdtDeviation:.3f}")
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
+
+
+# Github Source: https://github.com/karthickkumar-R/Mean-and-Variance
 
